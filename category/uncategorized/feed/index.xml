@@ -10,7 +10,7 @@
 <channel>
 	<title>Uncategorized &#8211; aVrise&#039;s blog</title>
 	<atom:link href="http://localhost/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://avrise.github.io/</link>
+	<link>/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 14 Feb 2017 04:28:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,17 +19,17 @@
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://avrise.github.io/hello-world/</link>
-		<comments>https://avrise.github.io/hello-world/#comments</comments>
+		<link>/hello-world/</link>
+		<comments>/hello-world/#comments</comments>
 		<pubDate>Tue, 14 Feb 2017 04:28:57 +0000</pubDate>
 		<dc:creator><![CDATA[aVrise]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https://avrise.github.io/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://avrise.github.io/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
